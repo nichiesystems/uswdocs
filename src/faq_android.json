@@ -14,8 +14,8 @@
     "items": [
       {
         "en": {
-          "title": "Why choose Unstoppable wallet?",
-          "markdown": "faq/android/en/about/why-choose-unstoppable-wallet.md"
+          "title": "Why choose Scurdex wallet?",
+          "markdown": "faq/android/en/about/why-choose-scurdex-wallet.md"
         },
         "ru": {
           "title": "Why choose Unstoppable wallet?",
@@ -52,8 +52,8 @@
       },
       {
         "en": {
-          "title": "How Unstoppable wallet works?",
-          "markdown": "faq/android/en/about/how-unstoppable-wallet-works.md"
+          "title": "How Scurdex wallet works?",
+          "markdown": "faq/android/en/about/how-scurdex-wallet-works.md"
         },
         "ru": {
           "title": "How Unstoppable wallet works?",
