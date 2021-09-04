@@ -1,4 +1,4 @@
-# How to send Bitcoin transaction?
+# How to send Bitcoins transaction?
 
 Тo send someone Bitcoin sender needs recipient's Bitcoin address. 
 
