@@ -1,4 +1,4 @@
-# Why a separate approve transaction needed before swap? 
+# Why a separate approve transactions needed before swap? 
 
 Users are expected to execute a separate Approve transaction when doing any of the following swap trades:
 - ERC20 -> ETH
