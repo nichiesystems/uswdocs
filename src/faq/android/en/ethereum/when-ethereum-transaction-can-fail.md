@@ -6,7 +6,7 @@ There are two potential reasons a transaction may remain in pending state for an
 
 2. When there is another pending transaction that was sent earlier. Ethereum transactions are processed in sequence and if there is a pending transaction, it needs to be completed (or replaced) first before other transactions from the same user can take place.
 
-There are a few other error examples that you could encounter during the transaction failure:
+There are a few other error examples that you could encounter during the transaction failures:
 
 **Dropped and Replaced** transaction which means the transaction was dropped and replaced by a new one. Please see more information about a dropped and replaced transaction here: https://info.etherscan.com/transaction-dropped-replaced/
 
