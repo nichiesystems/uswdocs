@@ -1,4 +1,4 @@
-# Are users anonymous when transacting on Unstoppable?
+# Are users anonymous when transacting on Scurdex?
 
 For the most part the activity of someone using Scurdex is anonymous but there are many other factors that may affect someone's privacy.
 
