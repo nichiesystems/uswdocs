@@ -6,7 +6,7 @@ Some blockchains like Ethereum provide means to create other cryptocurrencies fo
 
 Ethereum blockchain is foremost a platform that enables creation of autonomous services powered by smart contracts. Some of the popular services include:
 
-- Uniswap >> token exchange service
+- Uniswap >> token exchange services
 - MakerDAO >> borrowing service
 - Synthetix >> derivatives trading service
 

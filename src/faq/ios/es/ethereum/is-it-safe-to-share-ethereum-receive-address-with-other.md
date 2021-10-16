@@ -1,4 +1,4 @@
-# Is it safe to share Ethereum receive address with others?
+# Is it safe to share Ethereum receive addresses with others?
 
 While users are expected to share Ethereum payment addresses with anyone they are expecting payment from, there are some privacy concerns to keep in mind.
 

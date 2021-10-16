@@ -1,4 +1,4 @@
-# When an Ethereum transaction considered final and irreversible?
+# When an Ethereum transactions considered final and irreversible?
 
 While an Ethereum transaction is considered completed/confirmed when it has been included in the blockchain it's not considered final (irreversible) until a few more blocks have been added to the blockchain after it.
 

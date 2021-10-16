@@ -1,4 +1,4 @@
-# Why Bitcoin transaction stays pending?
+# Why Bitcoin transactions stays pending?
 
 The most common reason for the transaction to remain in pending state for long is when there are a lot of pending transactions on the network and the fee set for the given transaction is below the network average.
 

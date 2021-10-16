@@ -15,7 +15,7 @@ When swapping cryptocurrency on a decentralized exchange following points should
 
   Price slippage occurs because of changing market conditions between the moment the transaction is submitted to the network and its verification on a blockchain. The duration between the order submission and its verification depends on the network conditions and the transaction fee set by the user.
  
-  Unstoppable displays potential slippage amount by providing estimated and guaranteed amount of tokens users expected to receive as a result of the swap transaction.
+  Scurdex displays potential slippage amount by providing estimated and guaranteed amount of tokens users expected to receive as a result of the swap transaction.
 
   Users have an option to indicate acceptable slippage levels when sending transactions. By default the value is set to %0.5 - %1 depending on the DEX being used.
  
@@ -35,7 +35,7 @@ When swapping cryptocurrency on a decentralized exchange following points should
 
   Swap transactions have a validity period which usually varies between 10-30 minutes depending on a DEX being used.
 
-  Setting longer duration can potentially increase the chance of transaction being confirmed (and not fail). It's recommended to set longer duration when network is busy and transaction fees are high.
+  Settings longer duration can potentially increase the chance of transaction being confirmed (and not fail). It's recommended to set longer duration when network is busy and transaction fees are high.
 
 
 

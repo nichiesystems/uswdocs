@@ -1,6 +1,6 @@
 # Why was I charged transaction fee for a failed swap?
 
-A transaction on Ethereum blockchain may be completed and yet fail to execute all steps it was supposed to do. When this happens the user still pays the transaction fee to the network.
+A transaction on Ethereum blockchain may be completed and yet fail to execute all steps it was supposed to do. When this happens the user still pays the transaction fees to the network.
 
 Users sending transactions are paying for the computation, regardless of whether their transaction succeeds or fails. Users are expected to pay for that computation, just like for a successful transaction.
 

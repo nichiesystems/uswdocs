@@ -1,4 +1,4 @@
-# What is an Ethereum Smart Contract?
+# What is an Ethereum Smart Contracts?
 
 A smart contract is a program that's preprogrammed to do something and can't do anything outside that logic. These programs are programmed and typically remain independent and unalterable by anyone (even its creator) after they have been deployed (began to operate) on Ethereum blockchain. 
 
