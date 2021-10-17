@@ -1,4 +1,3 @@
 # How Scurdex makes money?
 
-Scurdex charges 4.96% on every purchase of any cryptocurrency asset(through www.scurdex.com) in addition to network fee. 
-
+Scurdex, with Ramp Network API which is a UK on-ramp fiat-crypto company, charges average of 4.6%(network fee inclusive) during purchase(through www.scurdex.com) of any cryptocurrency asset with Mastercard or Visa card. However, with Scurdex wallet, we charge no fee while user trade/swap or transfer crypto to another address except for network fee and this is extremely low. Usually 0.2% to 0.4% of the transaction amount. The cost of purchasing crypto with fiat through scurdex.com is one of the lowest in the industry compared to other platforms which cost can be as high as 25%. 
