@@ -9,6 +9,6 @@ The Academy goes well beyond covering basics and aims to:
 - take someone from 'zero knowledge' to a level where that person has a solid understanding of how cryptocurrency storage, security and privacy works.
 - onboard someone into the DeFi ecosystem, how it works, opportunities it provides and how to get started.
 
-The Academy is accessible both from in-app as well as externally on https://litrex.academy.
+The Academy is accessible in-app through Settings > Scurdex Academy.
 
 Apart from Academy, users are recommended to go over Scurdex terms (Settings > About section) and make sure they understand what Scurdex wallet is and risks involved in using the app.
