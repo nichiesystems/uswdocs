@@ -6,7 +6,7 @@ To reach out please use scurdex@protonmail.com or one of the following channels:
 - Twitter: https://twitter.com/scur_dex
 - Telegram (Channel) : https://t.me/scudex
 
-Do not trust anyone communicating outside official channels. There are a number of fake groups and channels impersonating the Unstoppable team on Telegram and Twitter. Unfortunately, there is no easy way to locate, report and take down these groups.
+Do not trust anyone communicating outside official channels. There are a number of fake groups and channels impersonating the Scurdex team on Telegram and Twitter. Unfortunately, there is no easy way to locate, report and take down these groups.
 
 - Never trust anyone on Telegram or elsewhere claiming to be from the Scurdex team. These groups are created by scammers to trick users into revealing their private keys. Be aware!
 
