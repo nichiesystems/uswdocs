@@ -2,7 +2,7 @@
 
 To reach out please use scurdex@protonmail.com or one of the following channels:
 
-- Facebook: https://www.facebook.com/scudex
+- Facebook: https://www.facebook.com/scurdex
 - Twitter: https://twitter.com/scur_dex
 - Telegram (Channel) : https://t.me/scudex
 
