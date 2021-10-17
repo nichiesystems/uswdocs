@@ -8,6 +8,6 @@ If at some point, Scurdex wallet is not working as expected users can easily mig
 
 ### Longer answer:
 
-Your funds and information are not ‘in’ Scurdex. Your wallet exists on the blockchain itself, and Scurdex just offers a way for anyone to interact with the blockchain easily. If Scurdex went down, you would simply have to find another Ethereum blockchain interface that would allow you to access your wallet.
+Your funds and information are not ‘in’ Scurdex. Your wallet exists on the blockchain itself, and Scurdex just offers a way for anyone to interact with the blockchain easily. If Scurdex wallet went down, you would simply have to find another Ethereum blockchain interface that would allow you to access your wallet.
 
 The information used to unlock your Scurdex wallet is the same information that can be used to unlock your wallet on another platform. We always suggest doing research before entering your information into an unfamiliar site.
